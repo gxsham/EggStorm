@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669156508355",
+    "firebase_url": "https://eggstorm-85fb6.firebaseio.com",
+    "project_id": "eggstorm-85fb6",
+    "storage_bucket": "eggstorm-85fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669156508355:android:2ea0523771d4d27a",
+        "android_client_info": {
+          "package_name": "com.example.gxsha.eggstorm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669156508355-3tfdn0av424l7eaupgm1oa5q4s3lfkgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gxsha.eggstorm",
+            "certificate_hash": "c4ac1638f75221d79e5e05f79fa563adc52fe1a0"
+          }
+        },
+        {
+          "client_id": "669156508355-72qku749d21t7kuoud43jhjih6b092gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo11qxu4xAanpmCZQB8GX34xpmzanBjsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669156508355-72qku749d21t7kuoud43jhjih6b092gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
